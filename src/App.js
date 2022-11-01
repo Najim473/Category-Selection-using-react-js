@@ -1,9 +1,10 @@
+import Category from '../Components/Category/Category';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      App
+      <Category />
     </div>
   );
 }
