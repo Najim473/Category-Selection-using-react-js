@@ -1,5 +1,5 @@
-import Category from '../Components/Category/Category';
-import './App.css';
+import Category from "./Components/Category";
+
 
 function App() {
   return (
